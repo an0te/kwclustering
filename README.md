@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 8b2e2e0a4c272de6dbcb8e1eb2e356f877ded90b
 # 🚀 Bulk Keyword Classifier & Analyzer 📊
 
 ## Overview
@@ -10,11 +6,7 @@ The **Bulk Keyword Classifier & Analyzer** is a powerful tool that leverages Ope
 
 ## Features
 
-<<<<<<< HEAD
 - **Upload and Analyze**: Upload a CSV file with keywords (and optionally,their search volumes) or enter keywords manually.
-=======
-- **Upload and Analyze**: Upload a CSV file with keywords (and optionally, their search volumes) or enter keywords manually.
->>>>>>> 8b2e2e0a4c272de6dbcb8e1eb2e356f877ded90b
 - **Custom Categories**: Define your own categories, including descriptions and example keywords, to tailor the classification to your needs.
 - **Visualization**: Get visual insights into the distribution of keywords across categories using interactive charts.
 - **Download Results**: Easily download the classification results as a CSV file for further analysis.
@@ -37,11 +29,7 @@ The **Bulk Keyword Classifier & Analyzer** is a powerful tool that leverages Ope
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/an0te/kwclustering
-<<<<<<< HEAD
    cd keyword-classifier
-=======
-   cd kwclustering
->>>>>>> 8b2e2e0a4c272de6dbcb8e1eb2e356f877ded90b
    ```
 
 2. **Install dependencies**:
