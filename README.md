@@ -30,7 +30,7 @@ The **Bulk Keyword Classifier & Analyzer** is a powerful tool that leverages Ope
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/an0te/kwclustering
-   cd keyword-classifier
+   cd kwclustering
    ```
 
 2. **Install dependencies**:
